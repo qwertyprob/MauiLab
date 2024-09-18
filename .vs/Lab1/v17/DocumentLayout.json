@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|c:\\users\\user\\source\\repos\\lab1\\lab1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|solutionrelative:lab1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|c:\\users\\user\\source\\repos\\lab1\\lab1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|solutionrelative:lab1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|c:\\users\\user\\source\\repos\\lab1\\lab1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|solutionrelative:lab1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|c:\\users\\user\\source\\repos\\lab1\\lab1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|solutionrelative:lab1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|c:\\users\\user\\source\\repos\\lab1\\lab1\\lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|solutionrelative:lab1\\lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|c:\\users\\user\\source\\repos\\lab1\\lab1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|c:\\users\\user\\source\\repos\\lab1\\lab1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|solutionrelative:lab1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|c:\\users\\user\\source\\repos\\lab1\\lab1\\lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E9EE912C-E3AE-4392-9903-5256D622DA2D}|Lab1\\Lab1.csproj|solutionrelative:lab1\\lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab1\\Lab1\\App.xaml",
               "RelativeDocumentMoniker": "Lab1\\App.xaml",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Lab1.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab1\\Lab1\\Lab1.csproj",
               "RelativeDocumentMoniker": "Lab1\\Lab1.csproj",
@@ -62,11 +62,12 @@
               "RelativeToolTip": "Lab1\\Lab1.csproj",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-14T19:37:22.771Z"
+              "WhenOpened": "2024-09-14T19:37:22.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab1\\Lab1\\AppShell.xaml",
               "RelativeDocumentMoniker": "Lab1\\AppShell.xaml",
@@ -74,7 +75,8 @@
               "RelativeToolTip": "Lab1\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-14T19:01:34.88Z"
+              "WhenOpened": "2024-09-14T19:01:34.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,29 +88,31 @@
               "RelativeToolTip": "Lab1\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T18:58:08.154Z"
+              "WhenOpened": "2024-09-14T18:58:08.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab1\\Lab1\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Lab1\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Lab1\\Lab1\\MainPage.xaml.cs",
               "RelativeToolTip": "Lab1\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T18:55:30.88Z"
+              "WhenOpened": "2024-09-14T18:55:30.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab1\\Lab1\\MainPage.xaml",
               "RelativeDocumentMoniker": "Lab1\\MainPage.xaml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Lab1\\Lab1\\MainPage.xaml",
               "RelativeToolTip": "Lab1\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-14T18:53:13.976Z",
               "EditorCaption": ""

@@ -21,7 +21,7 @@
                Grid.ColumnSpan="2"
                Padding="10"/>
         
-        <Label Text="Норма:"
+        <Label Text="Норма"
                FontSize="14"
                HorizontalOptions="Center"
                VerticalOptions="Center"
@@ -32,6 +32,7 @@
                Padding="10"/>
 
         <Label Text="ИМТ:"
+               x:Name="bmiLabel"
                FontSize="14"
                HorizontalOptions="Center"
                VerticalOptions="Center"
@@ -44,6 +45,8 @@
 
         <Entry Placeholder="Введите рост:(м) "  
                TextColor="Black"
+               x:Name="heightEntry"
+               Keyboard="Numeric"
                Grid.Row="4"
                Grid.Column="0"
                Margin="10"/>
@@ -51,12 +54,15 @@
         
         <Entry Placeholder="Введите массу:(кг)"  
                TextColor="Black"
+               x:Name="weightEntry"
+               Keyboard="Numeric"
                Grid.Row="4"
                Grid.Column="1"
                Margin="10"/>
 
         
-        <Button Text="Click Me!"
+        <Button Text="Result"
+                Clicked="OnCalculateClicked"
                 HorizontalOptions="Center"
                 VerticalOptions="End"
                 Grid.Row="5"

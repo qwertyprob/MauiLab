@@ -1037,3 +1037,4 @@ C:\Users\User\source\repos\Lab1\Lab1\obj\Debug\net8.0-android\stamp\_ConvertReso
 C:\Users\User\source\repos\Lab1\Lab1\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\User\source\repos\Lab1\Lab1\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\User\source\repos\Lab1\Lab1\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\User\source\repos\Lab1\Lab1\obj\Debug\net8.0-android\Lab1.sourcelink.json
