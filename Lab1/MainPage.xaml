@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab1.MainPage">
+
+    <Grid RowDefinitions="150,Auto,Auto,Auto,Auto,Auto,Auto"
+          ColumnDefinitions="*,*">
+
+        <Image Grid.ColumnSpan="2"
+               Source="dotnet_bot.png"
+               Aspect="AspectFit"/>
+
+
+        <Label Text="Базовая программа по подсчету индекса массы тела"
+               FontSize="14"
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="Center"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               Grid.Row="1"
+               Grid.ColumnSpan="2"
+               Padding="10"/>
+        
+        <Label Text="Норма:"
+               FontSize="14"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               Grid.Row="2"
+               Grid.ColumnSpan="2"
+               Padding="10"/>
+
+        <Label Text="ИМТ:"
+               FontSize="14"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               Grid.Row="3"
+               Grid.ColumnSpan="2"
+               Padding="10"/>
+
+
+        <Entry Placeholder="Введите рост:(м) "  
+               TextColor="Black"
+               Grid.Row="4"
+               Grid.Column="0"
+               Margin="10"/>
+
+        
+        <Entry Placeholder="Введите массу:(кг)"  
+               TextColor="Black"
+               Grid.Row="4"
+               Grid.Column="1"
+               Margin="10"/>
+
+        
+        <Button Text="Click Me!"
+                HorizontalOptions="Center"
+                VerticalOptions="End"
+                Grid.Row="5"
+                Grid.ColumnSpan="2"
+                Margin="10"/>
+
+    </Grid>
+
+</ContentPage>
