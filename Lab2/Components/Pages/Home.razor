@@ -1,0 +1,110 @@
+﻿@page "/"
+@inherits LayoutComponentBase
+
+@using Newtonsoft.Json
+
+<section class="news__container">
+    <div class="news__header">
+        <h1>News</h1>
+        <a href="#" class="news__header__link">See all</a>
+    </div>
+
+    @if (newsList == null || !newsList.Any())
+    {
+        <p>Loading news...</p>
+    }
+    else
+    {
+        foreach (var item in newsList)
+        {
+            <div class="news__container__source">
+                <div class="news__container__source__img">
+                    <img src="@item.Cover" alt="news_image" />
+                </div>
+                <div class="news__container__source__textAndIcons">
+                    <h1 class="news__container__source__text">@item.Title</h1>
+                    <div class="news__container__source__icons">
+                        <img class="ico" src="~/static/likes.png" />
+                        <p class="ico__review">@item.Likes</p>
+                        <img class="ico" src="com.svg" alt="comments_logo" />
+                        <p class="ico__review">@item.Comments</p>
+                    </div>
+                    <div class="portal">
+                        <img class="ico" src="@item.Portal.Logo" alt="portal_logo" />
+                        <p class="portal">@item.Portal.Title</p>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+</section>
+
+@code {
+    private List<JsonModel> newsList;
+
+    protected override void OnInitialized()
+    {
+        string json = @"
+        {
+            ""news"": [
+                {
+                    ""cover"": ""https://cdn.cnn.com/cnnnext/dam/assets/220831163758-01-capitol-building-08062022-file-small-11.jpg"",
+                    ""title"": ""Focus on abortion rights may not be enough to save Democrats in the face of economic concerns"",
+                    ""category"": ""Politic"",
+                    ""portal"": {
+                        ""title"": ""BBC News"",
+                        ""logo"": ""https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1200px-BBC_News.svg.png""
+                    },
+                    ""likes"": 345435,
+                    ""comments"": 3452
+                },
+                {
+                    ""cover"": ""https://cdn.cnn.com/cnnnext/dam/assets/221013163122-warnock-walker-split-small-11.jpg"",
+                    ""title"": ""Why we may not know who controls the Senate on November 8"",
+                    ""category"": ""Politic"",
+                    ""portal"": {
+                        ""title"": ""BBC News"",
+                        ""logo"": ""https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1200px-BBC_News.svg.png""
+                    },
+                    ""likes"": 12,
+                    ""comments"": 3244
+                },
+                {
+                    ""cover"": ""https://cdn.cnn.com/cnnnext/dam/assets/221012155037-long-covid-smell-loss-file-large-169.jpg"",
+                    ""title"": ""Long Covid and smell: How to get the treatment you need"",
+                    ""category"": ""Health"",
+                    ""portal"": {
+                        ""title"": ""BBC News"",
+                        ""logo"": ""https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1200px-BBC_News.svg.png""
+                    },
+                    ""likes"": 33211,
+                    ""comments"": 5566423
+                }
+            ]
+        }";
+
+        var newsResponse = JsonConvert.DeserializeObject<NewsResponse>(json);
+        newsList = newsResponse?.News; // Извлекаем список новостей
+    }
+
+    public class NewsResponse
+    {
+        public List<JsonModel> News { get; set; }
+    }
+
+    public class JsonModel
+    {
+        public string Cover { get; set; }
+        public string Title { get; set; }
+        public string Category { get; set; }
+        public PortalModel Portal { get; set; }
+        public int Likes { get; set; }
+        public int Comments { get; set; }
+    }
+    
+    public class PortalModel
+    {
+        public string Title { get; set; }
+        public string Logo { get; set; }
+    }
+}

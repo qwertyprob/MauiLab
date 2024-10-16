@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab2\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\Lab2.styles.css",
+      "PackagePath": "staticwebassets\\Lab2.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab2\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab2\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab2\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab2\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab2\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab2\\wwwroot\\static\\com.svg",
+      "PackagePath": "staticwebassets\\static\\com.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab2\\wwwroot\\static\\like.svg",
+      "PackagePath": "staticwebassets\\static\\like.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab2\\wwwroot\\static\\likes.png",
+      "PackagePath": "staticwebassets\\static\\likes.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab2\\wwwroot\\static\\news.json",
+      "PackagePath": "staticwebassets\\static\\news.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.Lab2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.build.Lab2.props",
+      "PackagePath": "build\\Lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildMultiTargeting.Lab2.props",
+      "PackagePath": "buildMultiTargeting\\Lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildTransitive.Lab2.props",
+      "PackagePath": "buildTransitive\\Lab2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

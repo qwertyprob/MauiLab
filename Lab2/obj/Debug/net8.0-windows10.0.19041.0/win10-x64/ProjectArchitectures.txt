@@ -1,0 +1,1 @@
+C:\Users\User\source\repos\MauiLabs\Lab2\Lab2.csproj;x64

@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+
+    <com.google.android.material.progressindicator.CircularProgressIndicator
+        android:id="@+id/circularProgressIndicator"
+        android:layout_width="250dp"
+        android:layout_height="237dp"
+        android:layout_alignTop="@+id/linearLayout"
+        android:layout_alignBottom="@+id/linearLayout"
+        android:layout_marginStart="-209dp"
+        android:layout_marginTop="-246dp"
+        android:layout_marginEnd="-209dp"
+        android:layout_marginBottom="210dp"
+        android:layout_toStartOf="@+id/linearLayout"
+        android:layout_toEndOf="@+id/linearLayout"
+        android:backgroundTint="@android:color/transparent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/inputHours"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Часы" />
+
+        <EditText
+            android:id="@+id/inputMinutes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Минуты" />
+
+        <EditText
+            android:id="@+id/inputSeconds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Секунды" />
+
+        <Button
+            android:id="@+id/startButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Запустить таймер" />
+
+        <Button
+            android:id="@+id/pauseButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Пауза" />
+
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/timerText"
+        android:layout_width="104dp"
+        android:layout_height="88dp"
+        android:layout_alignStart="@+id/linearLayout"
+        android:layout_alignTop="@+id/linearLayout"
+        android:layout_alignEnd="@+id/linearLayout"
+        android:layout_alignBottom="@+id/linearLayout"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="-161dp"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="257dp"
+        android:textSize="25dp" />
+</RelativeLayout>
