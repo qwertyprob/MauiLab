@@ -1,0 +1,109 @@
+header,section,footer{
+      margin-top: 140px;
+}
+
+body{
+      margin: 0;
+      background-image: url("../img/back.png");
+      background-size: cover;
+      background-position: center; /* Центрировать изображение */
+      background-attachment: fixed; /* Закрепить фон при прокрутке */
+}
+/* Buttons */
+.btn.btn-sign{
+
+      color: #08da5f;
+      background-color: #eee;
+      margin:90px 0 40px;
+      border-radius: 30px;
+      border: #eee solid 1px;
+      width: 100%;
+      height: 60px;
+      font-size: larger;
+      
+}
+.btn.btn-login{
+
+      color: #eee;
+      background-color: #08da5f;
+      margin:0 auto 30px;
+      border-radius: 30px;
+      border: #eee solid 1px;
+      width: 100%;
+      height: 60px;
+      font-size: larger;
+      
+}
+
+.btn.btn-urgent{
+      width: 100%;
+      height: 60px;
+      font-size: larger;
+      border:none;
+      cursor: pointer;
+      margin: auto 0 20px;
+      color:#eee;
+      font-size: 1.5em;
+}
+.btn.btn-urgent:active{
+      color:#eee;
+      
+}
+
+
+.input-icon {
+      position: relative; 
+  }
+  
+  .input-icon i{
+      display: flex;
+      justify-content: center;
+      align-items:center;
+      position: absolute;
+      top: 0;
+      right: -1;
+      left: 0;
+      width: 5%;
+      padding-top: 40px;
+      padding-left: 20px;
+      margin-right:20px ;
+      font-size: 24px;
+      color:white;
+      
+  }
+
+
+.form-control.custom-input {
+      width: 100%; 
+      padding: 10px 37px;
+      border: 2px solid #dfd5d5; 
+      border-radius: 10px; 
+      height: 20%;
+      font-size: 24px; 
+      color: white; 
+      background-color: transparent; 
+      transition: all 0.3s ease; 
+      outline: none; 
+      margin: 20px auto 20px;
+      
+
+  }
+  
+  .form-control.custom-input:focus {
+      border-color: whitesmoke; 
+      box-shadow: none; 
+      background-color: transparent; 
+      color: whitesmoke; 
+  }
+  
+
+  .form-control.custom-input::placeholder {
+      color: whitesmoke; 
+
+
+  }
+  
+
+
+
+  
