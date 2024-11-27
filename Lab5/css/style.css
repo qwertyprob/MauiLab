@@ -1,13 +1,24 @@
+@font-face {
+      font-family: 'CFont'; 
+      src: url('../font/font.otf') format('opentype'); 
+      font-weight: normal;
+      font-style: normal;
+  }
+
 header,section,footer{
-      margin-top: 140px;
+      margin-top: 90px;
 }
+
+
 
 body{
       margin: 0;
       background-image: url("../img/back.png");
       background-size: cover;
-      background-position: center; /* Центрировать изображение */
-      background-attachment: fixed; /* Закрепить фон при прокрутке */
+      background-position: center;
+      background-attachment: fixed;
+      font-family: 'CFont',sans-serif;
+      
 }
 /* Buttons */
 .btn.btn-sign{

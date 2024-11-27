@@ -1,0 +1,11 @@
+
+html,body{
+    background-color: #eee;
+    background-image: none;
+}
+
+.navbar{
+    background-color: #eee;
+    background-image: none;
+    box-shadow: 5px 5px 5px lightgray;
+}
