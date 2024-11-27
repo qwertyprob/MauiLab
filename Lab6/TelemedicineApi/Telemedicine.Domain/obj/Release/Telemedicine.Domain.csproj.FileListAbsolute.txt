@@ -1,0 +1,5 @@
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.Domain\bin\Release\Telemedicine.Domain.dll
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.Domain\bin\Release\Telemedicine.Domain.pdb
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.Domain\obj\Release\Telemedicine.Domain.csprojResolveAssemblyReference.cache
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.Domain\obj\Release\Telemedicine.Domain.dll
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.Domain\obj\Release\Telemedicine.Domain.pdb

@@ -1,0 +1,14 @@
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\bin\Release\Telemedicine.BusinessLogic.dll.config
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\bin\Release\Telemedicine.BusinessLogic.dll
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\bin\Release\Telemedicine.BusinessLogic.pdb
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\bin\Release\AutoMapper.dll
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\bin\Release\EntityFramework.dll
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\bin\Release\EntityFramework.SqlServer.dll
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\bin\Release\Telemedicine.Domain.dll
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\bin\Release\Telemedicine.Domain.pdb
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\bin\Release\AutoMapper.xml
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\bin\Release\EntityFramework.xml
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\bin\Release\EntityFramework.SqlServer.xml
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\obj\Release\Telemedicine.BusinessLogic.csprojResolveAssemblyReference.cache
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\obj\Release\Telemedicine.BusinessLogic.dll
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.BusinessLogic\obj\Release\Telemedicine.BusinessLogic.pdb

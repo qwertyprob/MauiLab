@@ -1,0 +1,33 @@
+header.header{
+    background-color: #08da5f;
+    margin:0;
+    padding: 15px;
+}
+
+
+html,body{
+    background-color: #eee;
+    background-image: none;
+}
+
+.photo{
+    margin: 0;
+    background-color: #eee;
+}
+
+.container.circle{
+    margin-top: 30px;
+}
+
+.circle-shape {
+    position: relative;
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    border: 2px dashed gray; 
+    padding: 10px;
+}
+
+h1{
+    position: absolute;
+}

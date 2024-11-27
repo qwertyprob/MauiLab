@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|c:\\users\\user\\source\\repos\\mauilabs\\lab6\\telemedicineapi\\telemedicineapi\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|solutionrelative:telemedicineapi\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|c:\\users\\user\\source\\repos\\mauilabs\\lab6\\telemedicineapi\\telemedicineapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|solutionrelative:telemedicineapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|c:\\users\\user\\source\\repos\\mauilabs\\lab6\\telemedicineapi\\telemedicineapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|solutionrelative:telemedicineapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|c:\\users\\user\\source\\repos\\mauilabs\\lab6\\telemedicineapi\\telemedicineapi\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|solutionrelative:telemedicineapi\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A1D559-AABC-404E-A8B5-85CA219837E4}|Telemedicine.BusinessLogic\\Telemedicine.BusinessLogic.csproj|c:\\users\\user\\source\\repos\\mauilabs\\lab6\\telemedicineapi\\telemedicine.businesslogic\\databasemodel\\initialseed\\doctorcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A1D559-AABC-404E-A8B5-85CA219837E4}|Telemedicine.BusinessLogic\\Telemedicine.BusinessLogic.csproj|solutionrelative:telemedicine.businesslogic\\databasemodel\\initialseed\\doctorcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|c:\\users\\user\\source\\repos\\mauilabs\\lab6\\telemedicineapi\\telemedicineapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|solutionrelative:telemedicineapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|c:\\users\\user\\source\\repos\\mauilabs\\lab6\\telemedicineapi\\telemedicineapi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|solutionrelative:telemedicineapi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|c:\\users\\user\\source\\repos\\mauilabs\\lab6\\telemedicineapi\\telemedicineapi\\views\\index\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D17C8211-ADDB-4B73-BAB7-348CFC08B7E9}|TelemedicineApi\\TelemedicineApi.csproj|solutionrelative:telemedicineapi\\views\\index\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\Views\\web.config",
+              "RelativeDocumentMoniker": "TelemedicineApi\\Views\\web.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\Views\\web.config",
+              "RelativeToolTip": "TelemedicineApi\\Views\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T15:14:58.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "TelemedicineApi\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "TelemedicineApi\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:13:55.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "TelemedicineApi\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "TelemedicineApi\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:12:06.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationInsights.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\ApplicationInsights.config",
+              "RelativeDocumentMoniker": "TelemedicineApi\\ApplicationInsights.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\ApplicationInsights.config",
+              "RelativeToolTip": "TelemedicineApi\\ApplicationInsights.config",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T15:12:50.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\packages.config",
+              "RelativeDocumentMoniker": "TelemedicineApi\\packages.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\packages.config",
+              "RelativeToolTip": "TelemedicineApi\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T15:11:53.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\Views\\Index\\Index.cshtml",
+              "RelativeDocumentMoniker": "TelemedicineApi\\Views\\Index\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\Views\\Index\\Index.cshtml",
+              "RelativeToolTip": "TelemedicineApi\\Views\\Index\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T15:05:24.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\Global.asax.cs",
+              "RelativeDocumentMoniker": "TelemedicineApi\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\TelemedicineApi\\Global.asax.cs",
+              "RelativeToolTip": "TelemedicineApi\\Global.asax.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:02:24.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorContextInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\Telemedicine.BusinessLogic\\DataBaseModel\\InitialSeed\\DoctorContextInitializer.cs",
+              "RelativeDocumentMoniker": "Telemedicine.BusinessLogic\\DataBaseModel\\InitialSeed\\DoctorContextInitializer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MauiLabs\\Lab6\\TelemedicineApi\\Telemedicine.BusinessLogic\\DataBaseModel\\InitialSeed\\DoctorContextInitializer.cs",
+              "RelativeToolTip": "Telemedicine.BusinessLogic\\DataBaseModel\\InitialSeed\\DoctorContextInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:56:38.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

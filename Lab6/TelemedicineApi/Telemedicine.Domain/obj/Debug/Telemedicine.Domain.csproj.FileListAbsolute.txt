@@ -1,0 +1,11 @@
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.Domain\bin\Debug\Telemedicine.Domain.dll
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.Domain\bin\Debug\Telemedicine.Domain.pdb
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.Domain\obj\Debug\Telemedicine.Domain.csprojResolveAssemblyReference.cache
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.Domain\obj\Debug\Telemedicine.Domain.dll
+H:\WebProject\Pam\TelemedicineApi\Telemedicine.Domain\obj\Debug\Telemedicine.Domain.pdb
+C:\Users\User\source\repos\MauiLabs\Lab6\TelemedicineApi\Telemedicine.Domain\bin\Debug\Telemedicine.Domain.dll
+C:\Users\User\source\repos\MauiLabs\Lab6\TelemedicineApi\Telemedicine.Domain\bin\Debug\Telemedicine.Domain.pdb
+C:\Users\User\source\repos\MauiLabs\Lab6\TelemedicineApi\Telemedicine.Domain\obj\Debug\Telemedicine.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MauiLabs\Lab6\TelemedicineApi\Telemedicine.Domain\obj\Debug\Telemedicine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MauiLabs\Lab6\TelemedicineApi\Telemedicine.Domain\obj\Debug\Telemedicine.Domain.dll
+C:\Users\User\source\repos\MauiLabs\Lab6\TelemedicineApi\Telemedicine.Domain\obj\Debug\Telemedicine.Domain.pdb
